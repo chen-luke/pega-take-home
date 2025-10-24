@@ -9,7 +9,7 @@
 }
 
 .searchIcon {
-  margin-right: 10px;
+  margin-right: 0.5rem;
   color: #888;
 }
 
@@ -26,11 +26,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 50%;
+  border-radius: 50px;
   width: 36px;
   height: 36px;
   background-color: #343535;
-  margin: 0 1rem;
   cursor: pointer;
 }
 

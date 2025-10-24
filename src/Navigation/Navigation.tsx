@@ -17,7 +17,7 @@ function Navigation() {
       onMouseLeave={() => setIsHovering(false)}
     >
       <div>
-        <span>PEGA</span>
+        <span>PEGA </span>
         <span>Cosmos</span>
       </div>
       <SearchBar isHovering={isHovering} />
