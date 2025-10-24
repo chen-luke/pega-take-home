@@ -21,3 +21,19 @@
   background-color: #343535;
   color: white;
 }
+
+.containerNoHover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  background-color: #343535;
+  margin: 0 1rem;
+  cursor: pointer;
+}
+
+.containerNoHover .searchIcon {
+  margin-right: 0;
+}
