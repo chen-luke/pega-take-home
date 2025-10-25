@@ -33,7 +33,7 @@ function Navigation() {
           onActivateSearchBar={handleActivateSearchBar}
         />
         <ScrollablePanel isHovering={isHovering} />
-        <AppUtil />
+        <AppUtil isHovering={isHovering} />
       </nav>
     </IconContext.Provider>
   );
